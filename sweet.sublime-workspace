@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/home/Desktop/PY/suma.py",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3 nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"bs3 h5m",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-form"
+			],
+			[
+				"html 5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Quick Commit"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 127.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Git/sweet_dashboard_project/widgets",
+		"/D/Git/sweet_dashboard_project/widgets/clock",
+		"/C/Users/home/Desktop/PY"
+	],
+	"file_history":
+	[
+		"/C/Users/home/Desktop/suma.py",
+		"/D/Git/sweet_dashboard_project/assets/javascripts/dashing.gridster.coffee",
+		"/D/Git/sweet_dashboard_project/widgets/number/number.scss",
+		"/D/Git/sweet_dashboard_project/widgets/iframe/iframe.coffee",
+		"/C/Users/home/Downloads/Alien DC (1979) [1080p]/asd.srt",
+		"/C/Users/home/Desktop/index.html",
+		"/D/Git/sweet_dashboard_project/jobs/buzzwords.rb",
+		"/D/Git/sweet_dashboard_project/config.ru",
+		"/D/Git/sweet_dashboard_project/Gemfile.lock",
+		"/D/Git/sweet_dashboard_project/jobs/convergence.rb",
+		"/D/Git/sweet_dashboard_project/dashboards/sample.erb",
+		"/D/Git/sweet_dashboard_project/jobs/um.rb",
+		"/D/Git/sweet_dashboard_project/dashboards/layout.erb",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Git/sweet_dashboard_project/.gitignore",
+		"/D/Git/sweet_dashboard_project/Gemfile",
+		"/D/Git/sweet_dashboard_project/assets/fonts/fontawesome-webfont.svg",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/Git/sweet_dashboard_project/dashboards/sampletv.erb",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/home/Desktop/PY/suma.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "sweet.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "sweet_dashboard_project"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "PY"
+		}
+	]
+}
